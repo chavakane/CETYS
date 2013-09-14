@@ -1,0 +1,6 @@
+c:\users\carlos\documents\visual studio 2012\Projects\Pokemon\Pokemon\bin\Debug\Pokemon.exe.config
+c:\users\carlos\documents\visual studio 2012\Projects\Pokemon\Pokemon\obj\Debug\Pokemon.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2012\Projects\Pokemon\Pokemon\bin\Debug\Pokemon.exe
+c:\users\carlos\documents\visual studio 2012\Projects\Pokemon\Pokemon\bin\Debug\Pokemon.pdb
+c:\users\carlos\documents\visual studio 2012\Projects\Pokemon\Pokemon\obj\Debug\Pokemon.exe
+c:\users\carlos\documents\visual studio 2012\Projects\Pokemon\Pokemon\obj\Debug\Pokemon.pdb
