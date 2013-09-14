@@ -1,4 +1,4 @@
 CETYS
 =====
 
-Repositorio para la clase de Arquitectura de Software
+Repositorio para la clase de Arquitectura de Software.
