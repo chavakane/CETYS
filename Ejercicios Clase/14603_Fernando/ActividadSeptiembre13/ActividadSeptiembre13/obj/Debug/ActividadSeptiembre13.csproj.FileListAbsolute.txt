@@ -1,0 +1,6 @@
+c:\users\shinigami\documents\visual studio 2012\Projects\ActividadSeptiembre13\ActividadSeptiembre13\bin\Debug\ActividadSeptiembre13.exe.config
+c:\users\shinigami\documents\visual studio 2012\Projects\ActividadSeptiembre13\ActividadSeptiembre13\bin\Debug\ActividadSeptiembre13.exe
+c:\users\shinigami\documents\visual studio 2012\Projects\ActividadSeptiembre13\ActividadSeptiembre13\bin\Debug\ActividadSeptiembre13.pdb
+c:\users\shinigami\documents\visual studio 2012\Projects\ActividadSeptiembre13\ActividadSeptiembre13\obj\Debug\ActividadSeptiembre13.csprojResolveAssemblyReference.cache
+c:\users\shinigami\documents\visual studio 2012\Projects\ActividadSeptiembre13\ActividadSeptiembre13\obj\Debug\ActividadSeptiembre13.exe
+c:\users\shinigami\documents\visual studio 2012\Projects\ActividadSeptiembre13\ActividadSeptiembre13\obj\Debug\ActividadSeptiembre13.pdb
