@@ -1,5 +1,0 @@
-c:\users\vizardespa\documents\visual studio 2012\Projects\ArquitecturaSoftwarePokemon\ArquitecturaSoftwarePokemon\bin\Debug\ArquitecturaSoftwarePokemon.exe.config
-c:\users\vizardespa\documents\visual studio 2012\Projects\ArquitecturaSoftwarePokemon\ArquitecturaSoftwarePokemon\bin\Debug\ArquitecturaSoftwarePokemon.exe
-c:\users\vizardespa\documents\visual studio 2012\Projects\ArquitecturaSoftwarePokemon\ArquitecturaSoftwarePokemon\bin\Debug\ArquitecturaSoftwarePokemon.pdb
-c:\users\vizardespa\documents\visual studio 2012\Projects\ArquitecturaSoftwarePokemon\ArquitecturaSoftwarePokemon\obj\Debug\ArquitecturaSoftwarePokemon.exe
-c:\users\vizardespa\documents\visual studio 2012\Projects\ArquitecturaSoftwarePokemon\ArquitecturaSoftwarePokemon\obj\Debug\ArquitecturaSoftwarePokemon.pdb

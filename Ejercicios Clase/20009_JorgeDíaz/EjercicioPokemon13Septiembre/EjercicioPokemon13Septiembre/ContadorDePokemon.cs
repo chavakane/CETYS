@@ -4,17 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ArquitecturaSoftwarePokemon
+namespace EjercicioPokemon13Septiembre
 {
-    public static class ContadorDePokemones
+    class ContadorDePokemon
     {
-        //state
+
         public static int contador { get; set; }
 
-        //behavior
         public static void DesplegarTotal()
         {
-            Console.WriteLine("Has instanciado " + contador + " Pokemones");
+            Console.WriteLine("Has capturado " + contador + " pokemons");
         }
     }
 }

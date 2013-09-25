@@ -1,0 +1,6 @@
+c:\users\js\documents\visual studio 2012\Projects\EjercicioPokemon13Septiembre\EjercicioPokemon13Septiembre\bin\Debug\EjercicioPokemon13Septiembre.exe.config
+c:\users\js\documents\visual studio 2012\Projects\EjercicioPokemon13Septiembre\EjercicioPokemon13Septiembre\obj\Debug\EjercicioPokemon13Septiembre.csprojResolveAssemblyReference.cache
+c:\users\js\documents\visual studio 2012\Projects\EjercicioPokemon13Septiembre\EjercicioPokemon13Septiembre\bin\Debug\EjercicioPokemon13Septiembre.exe
+c:\users\js\documents\visual studio 2012\Projects\EjercicioPokemon13Septiembre\EjercicioPokemon13Septiembre\bin\Debug\EjercicioPokemon13Septiembre.pdb
+c:\users\js\documents\visual studio 2012\Projects\EjercicioPokemon13Septiembre\EjercicioPokemon13Septiembre\obj\Debug\EjercicioPokemon13Septiembre.exe
+c:\users\js\documents\visual studio 2012\Projects\EjercicioPokemon13Septiembre\EjercicioPokemon13Septiembre\obj\Debug\EjercicioPokemon13Septiembre.pdb
