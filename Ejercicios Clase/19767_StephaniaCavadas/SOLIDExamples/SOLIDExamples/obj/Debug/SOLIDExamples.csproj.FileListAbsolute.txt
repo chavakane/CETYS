@@ -1,0 +1,6 @@
+C:\Users\Stephania Cavadas\Documents\Visual Studio 2012\Projects\SOLIDExamples\SOLIDExamples\bin\Debug\SOLIDExamples.exe.config
+C:\Users\Stephania Cavadas\Documents\Visual Studio 2012\Projects\SOLIDExamples\SOLIDExamples\bin\Debug\SOLIDExamples.exe
+C:\Users\Stephania Cavadas\Documents\Visual Studio 2012\Projects\SOLIDExamples\SOLIDExamples\bin\Debug\SOLIDExamples.pdb
+C:\Users\Stephania Cavadas\Documents\Visual Studio 2012\Projects\SOLIDExamples\SOLIDExamples\obj\Debug\SOLIDExamples.csprojResolveAssemblyReference.cache
+C:\Users\Stephania Cavadas\Documents\Visual Studio 2012\Projects\SOLIDExamples\SOLIDExamples\obj\Debug\SOLIDExamples.exe
+C:\Users\Stephania Cavadas\Documents\Visual Studio 2012\Projects\SOLIDExamples\SOLIDExamples\obj\Debug\SOLIDExamples.pdb
