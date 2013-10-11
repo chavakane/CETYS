@@ -1,0 +1,6 @@
+c:\users\carlos\documents\visual studio 2012\Projects\Agregation\Agregation\bin\Debug\Agregation.exe.config
+c:\users\carlos\documents\visual studio 2012\Projects\Agregation\Agregation\bin\Debug\Agregation.exe
+c:\users\carlos\documents\visual studio 2012\Projects\Agregation\Agregation\bin\Debug\Agregation.pdb
+c:\users\carlos\documents\visual studio 2012\Projects\Agregation\Agregation\obj\Debug\Agregation.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2012\Projects\Agregation\Agregation\obj\Debug\Agregation.exe
+c:\users\carlos\documents\visual studio 2012\Projects\Agregation\Agregation\obj\Debug\Agregation.pdb

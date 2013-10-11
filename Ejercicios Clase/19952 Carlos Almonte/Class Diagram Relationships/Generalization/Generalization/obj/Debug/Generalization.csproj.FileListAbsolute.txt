@@ -1,0 +1,12 @@
+c:\users\carlos\documents\visual studio 2012\Projects\Generalization\Generalization\bin\Debug\Generalization.exe.config
+c:\users\carlos\documents\visual studio 2012\Projects\Generalization\Generalization\bin\Debug\Generalization.exe
+c:\users\carlos\documents\visual studio 2012\Projects\Generalization\Generalization\bin\Debug\Generalization.pdb
+c:\users\carlos\documents\visual studio 2012\Projects\Generalization\Generalization\obj\Debug\Generalization.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2012\Projects\Generalization\Generalization\obj\Debug\Generalization.exe
+c:\users\carlos\documents\visual studio 2012\Projects\Generalization\Generalization\obj\Debug\Generalization.pdb
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\Octubre 11, 2013 - Class Diagram Relationships\Generalization\Generalization\bin\Debug\Generalization.exe.config
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\Octubre 11, 2013 - Class Diagram Relationships\Generalization\Generalization\obj\Debug\Generalization.exe
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\Octubre 11, 2013 - Class Diagram Relationships\Generalization\Generalization\obj\Debug\Generalization.pdb
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\Octubre 11, 2013 - Class Diagram Relationships\Generalization\Generalization\obj\Debug\Generalization.csprojResolveAssemblyReference.cache
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\Octubre 11, 2013 - Class Diagram Relationships\Generalization\Generalization\bin\Debug\Generalization.exe
+C:\Users\Carlos\Documents\Visual Studio 2012\Projects\Octubre 11, 2013 - Class Diagram Relationships\Generalization\Generalization\bin\Debug\Generalization.pdb

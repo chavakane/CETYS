@@ -1,0 +1,6 @@
+c:\users\carlos\documents\visual studio 2012\Projects\Dependency\Dependency\bin\Debug\Dependency.exe.config
+c:\users\carlos\documents\visual studio 2012\Projects\Dependency\Dependency\obj\Debug\Dependency.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2012\Projects\Dependency\Dependency\bin\Debug\Dependency.exe
+c:\users\carlos\documents\visual studio 2012\Projects\Dependency\Dependency\bin\Debug\Dependency.pdb
+c:\users\carlos\documents\visual studio 2012\Projects\Dependency\Dependency\obj\Debug\Dependency.exe
+c:\users\carlos\documents\visual studio 2012\Projects\Dependency\Dependency\obj\Debug\Dependency.pdb
