@@ -1,0 +1,5 @@
+c:\users\carlos\documents\visual studio 2012\Projects\OpenClosedPrinciples\OpenClosedPrinciples\bin\Debug\OpenClosedPrinciples.exe.config
+c:\users\carlos\documents\visual studio 2012\Projects\OpenClosedPrinciples\OpenClosedPrinciples\bin\Debug\OpenClosedPrinciples.exe
+c:\users\carlos\documents\visual studio 2012\Projects\OpenClosedPrinciples\OpenClosedPrinciples\bin\Debug\OpenClosedPrinciples.pdb
+c:\users\carlos\documents\visual studio 2012\Projects\OpenClosedPrinciples\OpenClosedPrinciples\obj\Debug\OpenClosedPrinciples.exe
+c:\users\carlos\documents\visual studio 2012\Projects\OpenClosedPrinciples\OpenClosedPrinciples\obj\Debug\OpenClosedPrinciples.pdb

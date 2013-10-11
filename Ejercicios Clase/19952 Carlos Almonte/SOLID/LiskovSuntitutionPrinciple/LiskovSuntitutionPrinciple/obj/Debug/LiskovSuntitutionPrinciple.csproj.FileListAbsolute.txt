@@ -1,0 +1,5 @@
+c:\users\carlos\documents\visual studio 2012\Projects\LiskovSuntitutionPrinciple\LiskovSuntitutionPrinciple\bin\Debug\LiskovSuntitutionPrinciple.exe.config
+c:\users\carlos\documents\visual studio 2012\Projects\LiskovSuntitutionPrinciple\LiskovSuntitutionPrinciple\bin\Debug\LiskovSuntitutionPrinciple.exe
+c:\users\carlos\documents\visual studio 2012\Projects\LiskovSuntitutionPrinciple\LiskovSuntitutionPrinciple\bin\Debug\LiskovSuntitutionPrinciple.pdb
+c:\users\carlos\documents\visual studio 2012\Projects\LiskovSuntitutionPrinciple\LiskovSuntitutionPrinciple\obj\Debug\LiskovSuntitutionPrinciple.exe
+c:\users\carlos\documents\visual studio 2012\Projects\LiskovSuntitutionPrinciple\LiskovSuntitutionPrinciple\obj\Debug\LiskovSuntitutionPrinciple.pdb

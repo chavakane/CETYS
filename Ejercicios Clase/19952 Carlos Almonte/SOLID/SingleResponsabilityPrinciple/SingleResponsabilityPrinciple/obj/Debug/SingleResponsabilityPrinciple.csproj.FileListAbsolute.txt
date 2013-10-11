@@ -1,0 +1,6 @@
+c:\users\carlos\documents\visual studio 2012\Projects\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\bin\Debug\SingleResponsabilityPrinciple.exe.config
+c:\users\carlos\documents\visual studio 2012\Projects\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\bin\Debug\SingleResponsabilityPrinciple.exe
+c:\users\carlos\documents\visual studio 2012\Projects\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\bin\Debug\SingleResponsabilityPrinciple.pdb
+c:\users\carlos\documents\visual studio 2012\Projects\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\obj\Debug\SingleResponsabilityPrinciple.csprojResolveAssemblyReference.cache
+c:\users\carlos\documents\visual studio 2012\Projects\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\obj\Debug\SingleResponsabilityPrinciple.exe
+c:\users\carlos\documents\visual studio 2012\Projects\SingleResponsabilityPrinciple\SingleResponsabilityPrinciple\obj\Debug\SingleResponsabilityPrinciple.pdb
