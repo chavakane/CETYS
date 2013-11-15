@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="Client.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Restaurante"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="200" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel Orientation="Horizontal">
+            <Image Source="Assets/RestauranteLogo.PNG" Width="100" Height="100" Margin="50" />
+            <TextBlock Text="Control de Restaurante" FontSize="40" VerticalAlignment="Center" Margin="40,0,0,0" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Button Name="Button_Empleados" Width="430" >
+                <StackPanel Orientation="Horizontal" Width="325">
+                    <Image Source="Assets/EmpleadosLogo.PNG" Width="60" Height="60" HorizontalAlignment="Left" Stretch="Fill" />
+                    <TextBlock Text="Empleados" FontSize="30" HorizontalAlignment="Center" Margin="20" />
+                </StackPanel>
+            </Button>
+            <Button Name="Button_Inventario" Width="430">
+                <StackPanel Orientation="Horizontal" Width="325">
+                    <Image Source="Assets/InventarioLogo.PNG" Width="60" Height="60" HorizontalAlignment="Left" Stretch="UniformToFill" />
+                    <TextBlock Text="Inventario" FontSize="30"  HorizontalAlignment="Center" Margin="20" />
+                </StackPanel>
+            </Button>
+            <Button Name="Button_Proveedores" Width="430">
+                <StackPanel Orientation="Horizontal" Width="325">
+                    <Image Source="Assets/ProveedoresLogo.PNG" Width="60" Height="60" HorizontalAlignment="Left" Stretch="Fill" />
+                    <TextBlock Text="Proveedores" FontSize="30" HorizontalAlignment="Center" Margin="20" />
+                </StackPanel>
+            </Button>
+            <Button Name="Button_AgregarEntidad" Width="430">
+                <StackPanel Orientation="Horizontal" Width="325">
+                    <Image Source="Assets/SmallLogo.png" Width="60" Height="60" HorizontalAlignment="Left" />
+                    <TextBlock Text="Agregar Entidad" FontSize="30" HorizontalAlignment="Center" Margin="20" />
+                </StackPanel>
+            </Button>
+        </StackPanel>
+
+    </Grid>
+
+</Page>
